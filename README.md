@@ -1,2 +1,3 @@
 # MyWebPage
-My first webpage with some basic feetures.
+My first webpage with some basic features.
+I don't know yet what it's gonna look like. Just trying things...
